@@ -1,6 +1,6 @@
 #You Don't Know JS: Up & Going exercises
 -----
-![Book Cover](https://github.com/getify/You-Dont-Know-JS/raw/master/up%20%26%20going/cover.jpg =300x)
+<img src="https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png" width="300"/>
 
 My implementation of the book exercises.
 
